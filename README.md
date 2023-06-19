@@ -1,4 +1,4 @@
-<h2>Bem-vindo ao repositório do <strong>CodeSource</strong>!</h2>
+<h2>Bem-vindo ao repositório da <strong>CodeSource</strong>!</h2>
 <p>Aqui você encontrará uma ampla variedade de códigos de programação disponíveis para compra. Nossa plataforma oferece recursos e soluções para ajudar desenvolvedores a acelerar seus projetos e encontrar inspiração para suas criações.</p>
 <p>Como funciona</p>
 <ol>
